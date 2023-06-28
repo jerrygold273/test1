@@ -56,7 +56,7 @@
         </div>
         <div class="box">
           <img src="./img/logo_brush.png">
-          <h3>Graphic Design</h3>
+          <h3>Graphic wire</h3>
           <p>Vivamus mi augue, viverra sit amet ultrices</p>
         </div>
       </div>
